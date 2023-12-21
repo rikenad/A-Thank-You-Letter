@@ -14,7 +14,8 @@ amorphous, black, wispy, person-like avatar
 
 
 
-SCENES
+SCENES:
+
 Scene 1:
 Movement mechanics: AWSD, space, enter, typing letters and numbers
 Environment: near-empty room; walls can be felt, but are transparent; outer space can be seen through the walls; only thing included is an NPC, room entrance, and room exit
@@ -57,7 +58,8 @@ Challenge & Solution:
 
 
 
-EXTENSION POSSIBILITY
+EXTENSION POSSIBILITY:
+
 STIGMA-inspired
 platform where players can receive hope/support from and give hope/support to others
 Nier:Automata death messages-inspired, players' avatars can be "saved" in anywhere with a message regading hope they need or would appreciate receiving, and other players can interact with these "save" points (lingo subject to change)
